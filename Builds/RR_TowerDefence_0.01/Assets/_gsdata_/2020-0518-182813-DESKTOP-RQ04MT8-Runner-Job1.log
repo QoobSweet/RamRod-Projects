@@ -1,0 +1,45 @@
+2020-05-18 18:28:13: On File Change Monitoring started on gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets
+2020-05-18 18:28:13: >> Resolved desktop-mtqer7j.qoobsweet-gmail-com to 98.111.191.34:33155-192.168.1.155:33333
+2020-05-18 18:28:13: LOCAL C:98.111.191.34(192.168.1.2) -> S:192.168.1.155:33333
+2020-05-18 18:28:13: QDS-Home.qoobsweet-gmail-com.goodsync is This Computer, so connect to file:///G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets instead
+2020-05-18 18:28:13: >> Resolved desktop-mtqer7j.qoobsweet-gmail-com to 98.111.191.34:33155-192.168.1.155:33333
+2020-05-18 18:28:13: LOCAL C:98.111.191.34(192.168.1.2) -> S:192.168.1.155:33333
+2020-05-18 18:28:13: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start, Under Runner
+2020-05-18 18:28:13: On File Change Monitoring started on gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets
+2020-05-18 18:28:13: L: State file does not exist: gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/_gsdata_/_file_state_v4._gs
+2020-05-18 18:28:13: R: State file does not exist: gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/_gsdata_/_file_state_v4._gs
+2020-05-18 18:28:13: /.sync/FolderType: Warning: Older file to replace Newer file
+2020-05-18 18:28:13: /.sync/ID: Warning: Older file to replace Newer file
+2020-05-18 18:28:13: /.sync/IgnoreList: Warning: Older file to replace Newer file
+2020-05-18 18:28:13: /.sync/root_acl_entry: Warning: Older file to replace Newer file
+2020-05-18 18:28:13: /.sync/StreamsList: Warning: Older file to replace Newer file
+2020-05-18 18:28:13: Changes: 25, Conflicts: 0, CopyTime: 0, FixState: 1,816, Errors: 0, All: 1842
+2020-05-18 18:28:13: Left to Right: Copy File: 5 Delete File: 20 
+2020-05-18 18:28:13: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start, Under Runner
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Materials/LeavesDead01.mat'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Materials/WoodChips01.mat'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Materials'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells/Meshes/AutoMaterials/No Name.mat.meta'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells/Meshes/AutoMaterials'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells/Meshes'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells/Textures/DryIce01.png.meta'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells/Textures'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf/Bundle03-MagicSpells'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/NeatWolf'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scenes/testLevel.unity.meta'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scenes'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/GridMap/Scripts/Grid.cs'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/GridMap/Scripts'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/GridMap'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/LightBeam.cs'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/PlacementGrid.cs'
+2020-05-18 18:28:14: Delete File 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/UI/TextController.cs'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts/UI'
+2020-05-18 18:28:14: Delete Folder 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/Archive/Scripts'
+2020-05-18 18:28:14: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/FolderType' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/FolderType' (57)
+2020-05-18 18:28:14: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/ID' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/ID' (28)
+2020-05-18 18:28:14: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/IgnoreList' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/IgnoreList' (805)
+2020-05-18 18:28:14: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/root_acl_entry' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/root_acl_entry' (0)
+2020-05-18 18:28:14: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/StreamsList' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/.sync/StreamsList' (283)
+2020-05-18 18:28:14: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 1,841, Errors: 0
+2020-05-18 18:28:14: 

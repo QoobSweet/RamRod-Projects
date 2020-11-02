@@ -1,0 +1,10 @@
+2020-05-18 18:31:32: QDS-Home.qoobsweet-gmail-com.goodsync is This Computer, so connect to file:///G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets instead
+2020-05-18 18:31:32: >> Resolved desktop-mtqer7j.qoobsweet-gmail-com to 98.111.191.34:33155-192.168.1.155:33333
+2020-05-18 18:31:32: LOCAL C:98.111.191.34(192.168.1.2) -> S:192.168.1.155:33333
+2020-05-18 18:31:32: -- Analysis Started by On File Change, After Delay, Under Runner
+2020-05-18 18:31:32: Changes: 1, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 1842
+2020-05-18 18:31:32: Left to Right: Copy File: 1 
+2020-05-18 18:31:32: == Sync Started by On File Change, After Delay, Under Runner
+2020-05-18 18:31:32: Copy Over 'gstps://QDS-Home.qoobsweet-gmail-com.goodsync/G:/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/Scripts/GridMap/Scripts/Grid.cs' -> 'gstps://desktop-mtqer7j.qoobsweet-gmail-com.goodsync/C:/Quarantine Development Studios/Open Projects/RamRod/RR_TowerDefence_0.01/Assets/Scripts/GridMap/Scripts/Grid.cs' (1,942)
+2020-05-18 18:31:32: == Sync Complete. Time: 00:00:01, Speed: 0.00/s, OK: 1, Errors: 0
+2020-05-18 18:31:32: 

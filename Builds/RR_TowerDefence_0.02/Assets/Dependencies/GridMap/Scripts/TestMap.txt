@@ -1,0 +1,28 @@
+Name: TestMap;
+
+MaxPlayers: 8;
+GridSize: 100,100;
+GridCellSize: 10;
+PlayersPositionOffsets:
+{
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+};
+
+PlayerGridSizes:
+{
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+-0,0
+};
